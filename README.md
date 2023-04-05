@@ -11,12 +11,18 @@
 
 Импортируем нейронку, зависимости и загружаем дата-сет
 
-![изображение](https://user-images.githubusercontent.com/87085844/230020348-9f6dfb0d-d32b-4e0b-afcd-8ece63809948.png)
+![изображение](https://user-images.githubusercontent.com/87085844/230023929-14ea8ab8-9462-4d80-8b6d-bfc145ca8414.png)
+
+![изображение](https://user-images.githubusercontent.com/87085844/230023969-4ae17d03-65df-409d-8bba-13adc985f2db.png)
+
+![изображение](https://user-images.githubusercontent.com/87085844/230024011-ee68886d-74d5-43b9-bbe1-0b4791ab78c1.png)
+
 
 
 Устанавливаем слои
 
 ![изображение](https://user-images.githubusercontent.com/87085844/230021233-f403d030-4ad2-40b7-86f1-33d90a4963cc.png)
+
 
 
 Обучаем нейронку
